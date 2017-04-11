@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Hello there nerdface!
 
-You can use the [editor on GitHub](https://github.com/SirDoor/sapr/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This document aims to be a shallow but extensive list of resources related to development, maintenance and use of computer related things such as software, peripherals, hardware, etc. Since this document is meant to complement the _tech_n_programming_ channel on the _Social Anxiety (SA) server_ at _Discord_, the scope of topics that are suitable for this list should mirror the scope of the _SA_ channel. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There are two ways you can contribute to this document:
+ - (**Easy**) Ask in the channel and someone else can help you add whatever if applicable
+ - (**Hard**) Read the contribution guide and get shit done the only way you know
+The contribution guide shall contain information about the conventions and format of this document, the general idea should be this:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+``` 
+Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SirDoor/sapr/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Prefer resources that encourage fundamental understanding rather than for example "useful code snippets" or similar.
