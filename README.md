@@ -30,22 +30,20 @@ Other important concepts:
 
 >[IP Address](https://en.wikipedia.org/wiki/IP_address) 
 
-#### Overview
+#### How the internet sees you
 On your home network you probably have several devices connected most of the time, like mobile phones and laptops (wifi), printers and desktop computers (wifi or cabled), and / or other smart devices. Each of these devices are assigned a unique address (IP address) on your home network, but when accessing the external web all devices on your home network usually use the same address. As the name implies the IP address provides a way for one computer to find another among billions of computers. IP address / computer relationship is not a permanent one, and one computer may have several IP addresses for example if it is connected to more than one network. Your external IP address (from your home to the internet) may change at any time unless your provider is serving you a static IP address. So when you surf around online, your IP address can be traced back to your home network but not to you as an individual. So because the external IP address represents the whole home network, that IP address does not represent any one individual person, or computer. 
 
 Every webservice that is accessed from a device on your home network can see your IP address. Technically only your internet service provider (ISP) knows the connection between you and your IP address (or whoever pays for your subscription), but facebook and google probably also knows. Most websites that run ads have ads through google, and most popular websites also have a facebook "like" button on every article posted. Both the google ads and the facebook _like_ button requires contacting their servers, and so google and / or facebook will log your IP address and website visited. Since you most likely have accounts at one of these or both they already have an IP / name link, possibly more if your home network houses more people. If you are logged in to either google or facebook when surfing the web then they will actually recieve more information than your ISP, since they have can connect your website visits to your name and not just IP address.
 
-This is one example of how data about you is collected and sold and also one good reason to why you'd want to mask your IP address. But it also gives a good example of a case where a VPN or proxy wouldn't protect your privacy. It doesn't matter if you hide your IP address if you expose yourself through other means, like being logged into facebook or google, or any account linked to your real identity. It is important if you want to protect your privacy to also think about your habits online.
+This is one example of how data about you is collected and sold and also one good reason to why you'd want to mask your IP address. But it also gives a good example of a case where a VPN or proxy wouldn't protect your privacy. It doesn't matter if you hide your IP address if you expose yourself through other means, like being logged into facebook or google, or any account linked to your real identity. It is important if you want to protect your privacy to also think about your habits online. Online privacy isn't only about hiding who you are online or hiding criminal activity, it's about choosing for yourself what you want to share and who you want to share it with.
+
 
 
 #### Tips
 
-
-
 ## Software resources
 
 ### Online resources
-
 
 >[Lynda](https://www.lynda.com) monthly 20 $ subscription access to high quality courses in several different topics
 
@@ -54,6 +52,8 @@ This is one example of how data about you is collected and sold and also one goo
 ### Books
 
 ### Tools
+>[Git](https://git-scm.com/) is a version control system, there are others like it but Git is the most widely used at the moment. Long story short it enables collaberation in software development and saves changes you make in the code as checkpoints (kind of) so that you can rewind your code to an earlier state if you wish. Git is mandatory for most serious software developers to master, and highly recommended for hobby coders as well. The basic functionality can be utilized very quickly, utilizing the full capability of git will probably take many years if ever.
+
 
 ### Reference guides
 
