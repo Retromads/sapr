@@ -73,7 +73,7 @@ There are two ways you can contribute to this document:
  
 The [contribution guide](https://github.com/SirDoor/sapr/blob/master/CONTRIBUTORS.md) shall contain information about the conventions and format of this document, the general idea should be this:
 
-``` 
-Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime
-```
+
+>Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime
+
 Prefer resources that encourage fundamental understanding rather than for example "useful code snippets" or similar.
