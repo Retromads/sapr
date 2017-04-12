@@ -7,7 +7,7 @@
 
 >[DuckDuckGo](https://duckduckgo.com/) it? More privacy friendly alternative to Google, give it a try if you wish
 
->[Wikipedia](https://wikipedia.com) is also obvious but still deserves a mention always and forever.
+>[Wikipedia](https://wikipedia.org) is also obvious but still deserves a mention always and forever.
 
 >[Coursera](https://www.coursera.org/) offers video versions of real university courses, most of it free with optional paid certificate.
 
