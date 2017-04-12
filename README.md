@@ -71,7 +71,7 @@ There are two ways you can contribute to this document:
  - (**Easy**) Ask in the channel and someone else can help you add whatever if applicable
  - (**Hard**) Read the contribution guide and get shit done the only way you know
  
-The contribution guide shall contain information about the conventions and format of this document, the general idea should be this:
+The [contribution guide](https://github.com/SirDoor/sapr/blob/master/CONTRIBUTORS.md) shall contain information about the conventions and format of this document, the general idea should be this:
 
 ``` 
 Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime
